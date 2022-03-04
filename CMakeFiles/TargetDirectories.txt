@@ -1,0 +1,4 @@
+/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build/CMakeFiles/rebuild_cache.dir
+/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build/CMakeFiles/edit_cache.dir
+/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build/CMakeFiles/WordList.dir
+/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build/CMakeFiles/wordList.h.dir

@@ -1,0 +1,2 @@
+/bin/ar qc libwordList.h.a  CMakeFiles/wordList.h.dir/wordList.c.o
+/bin/ranlib libwordList.h.a

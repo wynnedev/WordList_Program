@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WordList",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WordList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WordList-Debug-13e4ae757b53ba0651c8.json",
+					"name" : "WordList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wordList.h::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wordList.h-Debug-42ee76d8f522bc3d230e.json",
+					"name" : "wordList.h",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build",
+		"source" : "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

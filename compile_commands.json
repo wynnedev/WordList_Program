@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/WordList.dir/nicholas_wynne_hw4_main.c.o   -c /home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/nicholas_wynne_hw4_main.c",
+  "file": "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/nicholas_wynne_hw4_main.c"
+},
+{
+  "directory": "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/WordList.dir/wordList.c.o   -c /home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/wordList.c",
+  "file": "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/wordList.c"
+},
+{
+  "directory": "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/wordList.h.dir/wordList.c.o   -c /home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/wordList.c",
+  "file": "/home/linuxdev/Desktop/Projects/Freelance/33027826_WordBlast/wordList.c"
+}
+]
